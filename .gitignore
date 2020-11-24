@@ -1,0 +1,4 @@
+# Project exclude paths
+/kafka-basics/target/
+/kafka-consumer-elasticsearch/target/
+/target/
